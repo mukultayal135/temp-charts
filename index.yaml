@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  migrant:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-10-11T16:16:04.254786+05:30"
+    description: A Helm chart for Kubernetes
+    digest: c7c64ae9cf26c3e106866566b2b5c4c21b4f097ed809baed75d12bf3cdc4ed17
+    maintainers:
+    - email: devops@devtron.ai
+      name: Jatin
+    name: migrant
+    type: application
+    urls:
+    - https://mukultayal135.github.io/temp-charts/migrant-0.0.4.tgz
+    version: 0.0.4
+generated: "2023-10-11T16:16:04.253361+05:30"
